@@ -61,6 +61,7 @@ body {
 
 .big-screen,
 .small-screen {
+    cursor: default;
     grid-area: 2/1/3/5;
     background-color: transparent;
     font-size: 2.8rem;
