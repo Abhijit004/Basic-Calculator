@@ -1,6 +1,6 @@
 # Basic-Calculator :iphone:
 
-![Screenshot](Calculator_ss.jpg/?raw=true)
+![Screenshot](./Calculator_ss.jpg/?raw=true)
 
 A basic calculator made using `HTML`, `CSS`, `JavaScript`. Both dark and Light themes available as shown:point_up_2:. Built solely for learning purpose (*hope it looks cool!* :smile:)
 
@@ -22,4 +22,4 @@ A basic calculator made using `HTML`, `CSS`, `JavaScript`. Both dark and Light t
 - *Enjoy !* :smile:
 
 ## License :scroll:
-[MIT Liscence](./LICENSE)
+[MIT License](./LICENSE)
